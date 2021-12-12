@@ -1,16 +1,16 @@
 # toko_netzme
 
-Prototype New Toko Netzme
+Prototype Toko Netzme
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Untuk keperluan demo.
 
-A few resources to get you started if this is your first Flutter project:
+update data username dan authentication pada class NetzEnvi
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+untuk merubah environment build, update base url pada class repository tokoapi.
+ex: NetzEnvi.baseUrlProd.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jangan lupa clean dan get dependency dulu ya..
+
+Goodluck.
